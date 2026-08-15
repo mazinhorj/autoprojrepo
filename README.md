@@ -115,11 +115,19 @@ Contribuições da comunidade são muito bem-vindas! Você pode colaborar com:
 * Suporte a outros editores além do VS Code (ex: Neovim, Zed, Cursor, IntelliJ).
 * Melhorias de compatibilidade em sistemas operacionais e shells.
 
-Consulte o nosso guia em [CONTRIBUTING.md](https://www.google.com/search?q=CONTRIBUTING.md) para saber como enviar uma Pull Request ou abrir uma Issue.
+Consulte o nosso guia em [CONTRIBUTING.md](https://github.com/mazinhorj/autoprojrepo/tree/main?tab=contributing-ov-file) para saber como enviar uma Pull Request ou abrir uma Issue.
 
 ---
 
 ## 📄 Licença
 
 Distribuído sob a licença **MIT**. Veja o arquivo `LICENSE` para mais detalhes.
+
+## 👤 Autor
+
+Criado e mantido por **Mazinho RJ** ([@mazinhorj](https://github.com/mazinhorj)). \
+Founder & CEO na [OM Software **<ॐ/>** &copy;](https://omsoftware.com.br)
+
+* **GitHub:** [@mazinhorj](https://github.com/mazinhorj)
+* **LinkedIn:** [@mazinhorj](https://www.linkedin.com/in/mazinhorj)
 
