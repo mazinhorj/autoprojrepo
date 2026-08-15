@@ -25,6 +25,7 @@ PROJECT_NAME=""
 # -----------------------------------------------------------------------------
 show_help() {
   cat <<EOF
+# MADE IN BRAZIL 🇧🇷 - @mazinhorj
 Uso: autoprojrepo <nome-do-projeto> [OPÇÕES]
 
 Inicializa um repositório padronizado com Git, GitHub CLI e scaffolds por stack.
