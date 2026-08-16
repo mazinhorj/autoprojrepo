@@ -21,6 +21,10 @@ curl -sSL [https://raw.githubusercontent.com/mazinhorj/autoprojrepo/main/install
 
 ---
 
+## 🎬 Demonstração
+
+![autoprojrepo demo](assets/demo.gif)
+
 ## ✨ Funcionalidades
 
 * **Scaffolding Multi-Stack:** Estruturas prontas com `.gitignore`, `.env.example` e arquivos base para diversas tecnologias.

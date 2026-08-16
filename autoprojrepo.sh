@@ -169,7 +169,7 @@ EOF
       cat <<EOF > requirements.txt
 # Dependências do projeto
 EOF
-      cat <<EOF > .gitignore
+      cat <<'EOF' > .gitignore
 __pycache__/
 *.py[cod]
 *$py.class
@@ -201,7 +201,7 @@ EOF
 }
 EOF
       touch src/index.js
-      cat <<EOF > .gitignore
+      cat <<'EOF' > .gitignore
 node_modules/
 dist/
 .env
